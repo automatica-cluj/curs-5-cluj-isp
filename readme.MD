@@ -14,5 +14,13 @@ Acest exemplu demostreaza conceptele:
 * interfete
 * polimorfism
 
+## Exemplul instrumente
+
+Acest exemplu demostreaza conceptele:
+* interfete 
+* tipul enum
+* polimorfism
+
+
 
 
